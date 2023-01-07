@@ -1,0 +1,11 @@
+D:\Projects\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.exe.config
+D:\Projects\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.exe
+D:\Projects\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.pdb
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csproj.AssemblyReference.cache
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csproj.SuggestedBindingRedirects.cache
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.Form1.resources
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.Properties.Resources.resources
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csproj.GenerateResource.cache
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csproj.CoreCompileInputs.cache
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.exe
+D:\Projects\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.pdb

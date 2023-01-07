@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HavaDurumu", "HavaDurumu\HavaDurumu.csproj", "{364B44A6-276D-4F97-ABE3-0803EA853558}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HavaDurumuKurulum", "HavaDurumuKurulum\HavaDurumuKurulum.vdproj", "{36D5C2BE-344D-45E4-9BB7-2E48A37825D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{364B44A6-276D-4F97-ABE3-0803EA853558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364B44A6-276D-4F97-ABE3-0803EA853558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364B44A6-276D-4F97-ABE3-0803EA853558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364B44A6-276D-4F97-ABE3-0803EA853558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D5C2BE-344D-45E4-9BB7-2E48A37825D7}.Debug|Any CPU.ActiveCfg = Debug
+		{36D5C2BE-344D-45E4-9BB7-2E48A37825D7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7EDA02-FD83-43D1-9204-60D0FA589859}
+	EndGlobalSection
+EndGlobal
